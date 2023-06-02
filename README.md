@@ -5,8 +5,8 @@ Criado dados fictícios de alunos aprovados. Tendo alunos não aprovados na list
 
 ---
 
-![image](https://github.com/yasolar/test-jest-alunos/assets/46655932/f9bd2085-bdde-490d-a0d0-7dfcf4e30d4d)
+![image](https://github.com/yasolar/test-jest-alunos/assets/46655932/476c9cc5-b117-4007-af14-db644aafe4f5)
 
 
-![image](https://github.com/yasolar/test-jest-alunos/assets/46655932/e3b4aa6f-6f52-4885-99b8-db3d96fc3b34)
+![image](https://github.com/yasolar/test-jest-alunos/assets/46655932/e4dc0052-d02f-48e6-9ebd-14168a09eac1)
 
