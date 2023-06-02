@@ -9,8 +9,7 @@ Cenário:
 - Turma A vai haver erro
 - Turma B não vai haver erro
 
---- Testando
-
+---
 ## Testando
 
 ![image](https://github.com/yasolar/test-jest-alunos/assets/46655932/129d5fa0-dbca-4132-899a-168a17b3615f)
