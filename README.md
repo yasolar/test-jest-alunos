@@ -10,14 +10,19 @@ Cenário:
 - Turma B não vai haver erro
 
 ---
+### Rodando o teste:
 
+<div align="center">
+  <img src="https://github.com/yasolar/test-jest-alunos/assets/46655932/450c5d45-ce17-459c-aee5-bf929f03d986" width="550px"/>
+</div>
 
-![image](https://github.com/yasolar/test-jest-alunos/assets/46655932/129d5fa0-dbca-4132-899a-168a17b3615f)
+<div align="center">
+  <img src="https://github.com/yasolar/test-jest-alunos/assets/46655932/b5983db6-263c-40c4-a756-f0119c42c70a" width="550px"/>
+</div>
 
-![image](https://github.com/yasolar/test-jest-alunos/assets/46655932/07bd490e-c0c7-4263-9e1a-7c6f9eaf9406)
+<div align="center">
+  <img src="https://github.com/yasolar/test-jest-alunos/assets/46655932/53b6f816-46cd-4d47-a6cd-52474af9a9b3" width="550px"/>
+</div>
 
-![image](https://github.com/yasolar/test-jest-alunos/assets/46655932/8068edf1-e515-41e8-a6ff-61bb3f556be0)
-
-![image](https://github.com/yasolar/test-jest-alunos/assets/46655932/74c78e69-babf-4780-a0bb-fe32fe5669c6)
 
 
