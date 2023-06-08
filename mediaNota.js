@@ -3,7 +3,7 @@ function mediaNota (aluno, turma) {
     const quantidade = Object.keys(aluno.materias).length
     const calcMedia = notasSomadas / quantidade
     const media = Math.round(calcMedia)
-    console.log(`Média do aluno ${aluno.nome} da turma ${turma} é ${media}`)
+    console.log(`Nota média do(a) estudante ${aluno.nome} da turma ${turma} é ${media}`)
     return media
 }
 
