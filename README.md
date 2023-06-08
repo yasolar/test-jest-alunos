@@ -3,7 +3,7 @@ Teste unitário feito com Jest.
 
 Cenário:
 - Existem duas turmas: Turma A e Turma B
-- As turmas possuem 6 matérias e 15 alunos cada
+- As turmas possuem 6 matérias, 10 alunos na turma A e 8 alunos na turma B
 - Cada aluno possui suas notas nas 6 matérias
 - Ambas as turmas precisam estar com a média das notas igual ou acima de 7 pontos
 - Turma A vai haver erro
