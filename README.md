@@ -1,4 +1,4 @@
-# TESTE DE MÉDIA DAS NOTAS DE ESTUDANTES
+# TESTE DAS NOTAS
 
 ## 📋 Descrição do Projeto
 <p>
