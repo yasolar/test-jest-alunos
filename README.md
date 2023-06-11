@@ -12,6 +12,7 @@
   - Turma B não vai haver erro
 </p>
 
+
 ## 🧠 Conhecimentos
 <p>
    <a>Javascript</a> •
@@ -20,7 +21,7 @@
    <a>API</a>
 </p>
 
----
+
 ### 🛠️ Rodando os testes unitários:
 
 <div align="center">
