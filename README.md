@@ -22,7 +22,7 @@
 </p>
 
 
-### 🛠️ Rodando os testes unitários:
+### 🛠️ Rodando os testes unitários
 
 <div align="center">
   <img src="https://github.com/yasolar/test-jest-alunos/assets/46655932/450c5d45-ce17-459c-aee5-bf929f03d986" width="550px"/>
