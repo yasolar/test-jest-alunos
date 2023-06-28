@@ -1,4 +1,4 @@
-# TESTE DAS NOTAS
+<h1 align="center"> TESTE DAS NOTAS </h1>
 
 ### 📋 Descrição do Projeto
 <p>
