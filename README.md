@@ -1,6 +1,6 @@
 # TESTE DAS NOTAS
 
-## 📋 Descrição do Projeto
+### 📋 Descrição do Projeto
 <p>
     Aplicação que cria testes unitários para verificar se há algum estudante com média das notas inferior a 7 na lista das turmas aprovadas. Foi usado o seguinte cenário:
 
@@ -12,8 +12,8 @@
   - Turma B não vai haver erro
 </p>
 
-
-## 🧠 Conhecimentos
+##
+### 🧠 Conhecimentos
 <p>
    <a>Javascript</a> •
    <a>Teste unitário com Jest</a> •
@@ -21,7 +21,7 @@
    <a>API</a>
 </p>
 
-
+##
 ### 🛠️ Rodando os testes unitários
 
 <div align="center">
