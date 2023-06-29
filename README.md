@@ -1,6 +1,6 @@
 <h1 align="center"> TESTE DAS NOTAS </h1>
 
-### 📋 Descrição do Projeto
+### 📋 Descrição do projeto
 <p>
     Aplicação que cria testes unitários para verificar se há algum estudante com média das notas inferior a 7 na lista das turmas aprovadas. Foi usado o seguinte cenário:
 
